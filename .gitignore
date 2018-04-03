@@ -5,3 +5,4 @@ build
 cmake_install*
 CMakeC*
 CMakeF*
+.idea/vcs.xml
