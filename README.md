@@ -11,6 +11,4 @@ This program uses the [CMake](https://cmake.org/) build system. Run the followin
 
 This program is released under a BSD-style license. You can find the copyright notice and license conditions at the beginning of any of the source code files (such as main.c).
 
-Contributors
-------------
-* [Julian Straub](https://github.com/jstraub) - added CMake support
+* [qw300](https://github.com/jstraub) 
